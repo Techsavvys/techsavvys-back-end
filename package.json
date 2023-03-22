@@ -1,0 +1,23 @@
+{
+  "name": "techsavvys-back-end",
+  "version": "1.0.0",
+  "description": "The back end for the Techsavvy blog.",
+  "main": "./src/Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techsavvys/techsavvys-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techsavvys/techsavvys-back-end/issues"
+  },
+  "homepage": "https://github.com/Techsavvys/techsavvys-back-end#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
